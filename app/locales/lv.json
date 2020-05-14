@@ -1,0 +1,74 @@
+{
+    "favoriteflows": "Iecienītās Plūsmas",
+    "favoritedevices": "Iecienītās Ierīces",
+    "alarms": "Signāli",
+    "schedules": {
+        "weekdays": "darbadienas",
+        "weekend": "brīvdienas",
+        "alldays": "visas dienas"
+    },
+    "text" : {
+        "good": "Labu ",
+        "evening": "vakar",
+        "afternoon": "dien",
+        "morning": "rīt",
+        "night": "nakt",
+        "today": "Šodien ir ",
+        "the": "jo",
+        "of": "no"
+    },
+    "notification": {
+        "title": "Jaunākie paziņojumi",
+        "nonotification": "Nav paziņojumu"
+    },
+    "weather": {
+        "title": "Laika apstākļu informācija par ",
+        "temperature": "Pašreizējā temperatūra ir ",
+        "degrees": " grādi, ",
+        "humidity": "mitrums ir ",
+        "pressure": "% un spiediens ir ",
+        "mbar": " mbar"
+    },
+    "sunevent": {
+        "presunrise": "Saule lec ",
+        "postsunrise": "Saule riet ",
+        "presunset": " un iestatīt ",
+        "postsunset": " un iestatīt "
+    },
+    "battery": {
+        "title": "Bateriju informācija",
+        "in": " iekšā ",
+        "has": " ir ",
+        "left": "% palicis"
+    },
+    "sensor": {
+        "title": "Sensoru informācija",
+        "in": " iekšā ",
+        "alarm": " Trauksme.",
+        "noalarm": " Nav trauksmes.",
+        "fault": "Ielādējot ierīces, radās problēma. Lūdzu, pārbaudiet savas ierīces un lietotnes lietotnē Homey app"
+    },
+    "settings": {
+        "title": {
+            "language": "Izvēlies valodu",
+            "theme": "Izvēlies motīvu",
+            "appearance": "Izskats",
+            "temperature": {
+                "outdoor": "Āra temperatūra",
+                "indoor": "Iekšējā temperatūra"
+            },
+            "brightnessdevice": "Spilgtums"
+        },
+        "appearance": {
+            "logo": "Logo (url)",
+            "background": "Fons (url)",
+            "opacity": "Fona caurspīdīgums",
+            "clock": "Rādīt pulksteni",
+            "zoom": "Tuvināt"
+        },
+        "errors": {
+            "logo": "Lūdzu labot logo url",
+            "background": "Lūdzu labot fona url"
+        }
+    }
+}
